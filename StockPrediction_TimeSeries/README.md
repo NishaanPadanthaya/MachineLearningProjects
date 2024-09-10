@@ -1,6 +1,7 @@
 
 
-Netflix Stock Price Analysis and Prediction using LSTM for Time Series Forecasting
+Netflix Stock Price Analysis and Prediction using LSTM for Time Series Forecasting:
+
 Overview
 This project aims to analyze and predict Netflix's stock prices using historical data. It fetches the data from Yahoo Finance via the yfinance API and processes it for analysis and visualization. The project uses machine learning to predict future stock prices based on historical trends.
 
